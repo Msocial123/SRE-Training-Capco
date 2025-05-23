@@ -1,0 +1,25 @@
+   3 git add .
+   4 git status
+   5 git status
+   6 git commit -m "Index page code"
+   7 git log
+   8 git add .
+   9 git commit -m "About us page"
+  10 git log
+  11 git show a5a38545
+  12 ls -la
+  13 git remote -v
+  14 git push origin main
+  15 git pull
+  16 git log
+  17 git branch login
+  18 git branch
+  19 git checkout main
+  20 git checkout login
+  21 git status
+  22 git checkout main
+  23 git checkout login
+  24 git add .;git commit -m "Login Page Created"
+  25 git checkout main
+  26 git checkout login
+  27 git push origin login
